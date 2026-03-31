@@ -23,6 +23,7 @@ The study focuses on:
 
 ## 🧠 Method
 
+
 - Hybrid architecture combining:
   - CNN-based feature extraction
   - Temporal modeling
@@ -32,4 +33,32 @@ The study focuses on:
 
 ---
 
-## 📁 Project Structure
+## 📦 Dependencies
+PyTorch
+NumPy / SciPy
+Pandas
+Matplotlib
+PyNWB (neural data)
+SoundFile
+## 📚 Dataset
+SingleWordProductionDutch-iBIDS dataset
+Multi-subject sEEG recordings (up to 127 channels)
+## 🧪 Experiments
+Baseline vs Hybrid model
+Transfer learning evaluation
+Ablation studies
+## 📌 Contributions
+Architectural transfer from EEG to sEEG
+Hybrid MR-ResBlock integration
+Unified multi-subject modeling via channel masking
+## 📄 Citation
+
+If you use this work, please cite:
+
+```bibtex
+@article{sbaih2025transfer,
+  title={Architectural Transfer from Non-Invasive EEG to Invasive sEEG for Neural Speech Decoding},
+  author={Sbaih, Asma},
+  journal={Under Review},
+  year={2026}
+}
