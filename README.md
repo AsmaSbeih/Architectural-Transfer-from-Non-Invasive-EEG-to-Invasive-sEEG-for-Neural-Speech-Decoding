@@ -62,3 +62,6 @@ If you use this work, please cite:
   journal={Under Review},
   year={2026}
 }
+## 🤝 **Acknowledgments**
+
+This work is part of ongoing research in neural speech decoding and brain-computer interfaces.
